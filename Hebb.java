@@ -62,7 +62,8 @@ class Net {
             System.out.println("Средняя обучаемость, смешанный паттерн " + (int) result);
         } else {
             System.out.println("Низкая обучаемость, незнакомый паттерн " + (int) result);
-        }
+           
+        } System.out.println("Неизвестная обучаемость");
     }
 
     static class Neuron
