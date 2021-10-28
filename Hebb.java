@@ -64,6 +64,7 @@ class Net {
             System.out.println("Низкая обучаемость, незнакомый паттерн " + (int) result);
            
         } System.out.println("Неизвестная обучаемость");
+        System.out.println("commit3");
     }
 
     static class Neuron
